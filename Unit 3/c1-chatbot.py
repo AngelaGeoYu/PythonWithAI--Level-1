@@ -1,0 +1,10 @@
+print("Hey, I'm Alexa. What's your name?")
+name = input()
+print(f"Hello {name}. Nice to meet you! What's your grade?")
+
+grade = input()
+print(f"So you're in grade {grade}. What's your favourite colour?")
+colour = input()
+print(f"I like {colour} too! Have you enjoyed coding so far?")
+answer = input()
+print(f"It's nice to know you, {name}. See you soon!")
